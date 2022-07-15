@@ -1,5 +1,5 @@
 # 3D-unet
-Source code for the stroke lesion segmentation paper. 
+Source code for the chronic stroke lesion segmentation paper. 
 
 
 To replicate the results, install the nnUnet framework (https://github.com/MIC-DKFZ/nnUNet).
